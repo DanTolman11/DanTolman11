@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Dan,
 
-- 👨‍🎓 I'm currently studying a Bachelor's degree in Cyber Security @ Plymouth University! 
+- 👨‍🎓 I hold a bachelores degree in Cyber Security & Currently work as a deputy team lead for a Service Desk.
 
-- 👀 I’m interested in Cyber Security, Web Development, Pen Testing, Art & Tattooing
+- 👀 This GitHub will be a host for Pen Testing CTF documentation & programming projects.
 
-- 🌱 I’m currently learning GoLang, JavaScript & ReactJS (2021)
+- 🌱 I’ve previous experience working with Java, JavaScript, Python3!
+
+- 🎉 I will be looking to improve my skills with PowerShell & Python3, so expect to see uploads regarding these!
 
 
 
